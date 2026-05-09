@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.superpowers/
+.claude/
+backups/
+Test web/
+entrance-animation-demo/
+1/
+*.log
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+bpm-web-preview.png
